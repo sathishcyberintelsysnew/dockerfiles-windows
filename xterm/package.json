@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "4.16.0",
     "express-ws": "3.0.0",
-    "node-pty": "0.7.0"
+    "node-pty": "0.10.1"
   }
 }
